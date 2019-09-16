@@ -3,3 +3,4 @@
 
 ### Resources
 * [pima-indians-diabetes.csv](https://gist.github.com/ktisha/c21e73a1bd1700294ef790c56c8aec1f)
+* [handwriting_shape](https://github.com/playerflat/learn_keras/blob/master/resource/handwriting_shape.zip)
